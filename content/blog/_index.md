@@ -1,4 +1,4 @@
 ---
-author: Gideon Ler
+author: Katheryn Fox
 title: Blog
 ---
