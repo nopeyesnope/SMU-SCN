@@ -14,7 +14,7 @@ NPM Start
 
 Building static pages
 ```bash
-Hugo -D
+hugo serve -D
 ```
 Go to [http://localhost:1313/](http://localhost:1313) to view static pages
 
