@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 title = 'SMU Smart City Society'
-theme = 'blist'
+theme = 'themes'
 
 [languages]
   [languages.en]
