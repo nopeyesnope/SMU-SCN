@@ -13,8 +13,8 @@ theme = 'SmartCity'
       introPhoto = "/scnexco.jpg"
       logo = "/scnlogo.jpg"
     [[languages.en.menu.main]]
-        name = "Events"
-        url = "events"
+        name = "Blog"
+        url = "blog"
         weight = 1
 
     [[languages.en.menu.main]]
@@ -32,7 +32,15 @@ theme = 'SmartCity'
         url = "/en/events/emoji-support/"
         weight = 4
 
-  
+    [[languages.en.menu.main]]
+        name = "Exco"
+        url = "exco"
+        weight = 3
+
+    [[languages.en.menu.main]]
+        name = "Events"
+        url = "events"
+        weight = 3
 
 
   
