@@ -1,4 +1,5 @@
-{{- define "main" }}
+{{ define "main" }}
+
 
 <header class="page-header">
     <h1>{{- (printf "%s&nbsp;" .Title ) | htmlUnescape -}}
@@ -18,7 +19,7 @@
 <div>
     <p>Meet the Smart City Enthusiasts</p>
     <div class="team">
-    {{ range .Site.Data.team.team }}
+    {{ range .Site.Data.exco.exco }}
         <div class="member">
             <h4>{{ .name }}</h4>
             {{- if isset . "major" }}
@@ -62,4 +63,5 @@
     </div>
 </div>
 
-{{- end }}{{/* end main */}}
+    {{- partial "social.html" . -}}
+{{ end }}

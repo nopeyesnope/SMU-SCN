@@ -34,7 +34,7 @@ theme = 'SmartCity'
 
     [[languages.en.menu.main]]
         name = "Exco"
-        url = "exco"
+        url = "page/exco/"
         weight = 3
 
     [[languages.en.menu.main]]
