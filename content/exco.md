@@ -1,5 +1,5 @@
 ---
-title: fuck
+title: testingexco
 type: exco
 ---
 
