@@ -1,7 +1,7 @@
 ---
 author: SMU SCN
 title: About
-date: 2022-06-11
+# date: 2022-06-11
 description:
 keywords: ["about-us", "about-hugo", "contact"]
 type: about
@@ -12,3 +12,22 @@ We are a student club under the Institute of Innovation and Entrepreneurship (II
 Our club began in 2019 as SMU Anthill Society as an Special Interest Group under Ellipsis, the student representative body of the SMU School of Computing & Information Systems (SCIS). Since then, we have organized workshops and hackathons to value-add student experience in the area of Smart Cities. Our flagship events include the Antbytes hackathon, Code for Cities hackathon and the SCULPT program.
 
 In 2021, we moved under the Institute of Innovation and Entrepreneurship (IIE) and renamed ourselves from SMU Anthill Society to SMU Smart City Society. Since then, we continue to build a collaborative and Interdisciplinary Anthill Community by growing our membership base across the different faculties, attracting interdisciplinary talents and passionate actors for smart cities. Our involvement in the Association Public Affairs (APA) also ensures continued engagement with industry and public sector.
+
+
+---
+# Our Vision
+To be the one-stop platform for students interested in the field of Smart Cities and its related Technologies
+
+---
+# Our Mission
+**S**ustainable Living in Cities
+
+**M**aintain Strong Industry-Academia Link
+
+**A**nthill - a Collaborative Community
+
+**R**each Citizen Stakeholders
+
+**T**echnologically Innovative
+
+---

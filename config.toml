@@ -11,36 +11,34 @@ theme = 'SmartCity'
       introTitle = "SMU Smart City Society"
       introSubtitle = "Hi, I am smart"
       introPhoto = "/scnexco.jpg"
-      logo = "/scnlogo.jpg"
-    [[languages.en.menu.main]]
-        name = "Blog"
-        url = "blog"
-        weight = 1
+      logo = "/scnlogo.png"
+
 
     [[languages.en.menu.main]]
         name = "About"
         url = "page/about/"
-        weight = 2
+        weight = 1
 
     [[languages.en.menu.main]]
         name = "Tags"
         url = "tags"
-        weight = 3
+        weight = 2
 
     [[languages.en.menu.main]]
         name = "Top Post"
-        url = "/en/events/emoji-support/"
-        weight = 4
+        url = "/en/news/emoji-support/"
+        weight = 3
 
     [[languages.en.menu.main]]
         name = "Exco"
-        url = "page/exco/"
-        weight = 3
+        url = "exco"
+        weight = 4
 
     [[languages.en.menu.main]]
-        name = "Events"
-        url = "events"
-        weight = 3
+        name = "News"
+        url = "news"
+        weight = 5
+
 
 
   
@@ -54,7 +52,7 @@ theme = 'SmartCity'
 
   # Custom copyright - optional
   copyright = "© 2022 by SMU Smart City Society"
-  favicon = "/scnlogo.jpg"
+  favicon = "/scnfvicon.jpg"
 
   # Color for the intro details and social links block, not applicable for dark mode
   # Supported values: Any color from TailwindCSS default colors
@@ -62,7 +60,7 @@ theme = 'SmartCity'
   ascentColor = "bg-green-900"
 
   # The page bundle that is shown on the front page
-  frontBundle = "events"
+  frontBundle = "news"
 
 [params.homepage.social]
   # Global params xommon for both languages
@@ -70,8 +68,7 @@ theme = 'SmartCity'
   description = "You can find us here"
   instagram = "https://www.instagram.com/smu.smartcitysoc/?hl=en"
   linkedin = "https://www.linkedin.com/company/smu-smartcity-society/?originalSubdomain=sg"
-[[menu.events]]
-  name = "Events"
+
 
 
 
