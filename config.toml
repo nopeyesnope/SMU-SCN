@@ -45,7 +45,7 @@ theme = 'SmartCity'
 
 [[menu.main]]
     name = "Exco"
-    url = "customHTML/index.html"
+    url = "/exco"
     weight = 4
 
 [[menu.main]]
