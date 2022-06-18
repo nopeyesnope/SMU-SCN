@@ -2,49 +2,14 @@ baseURL = 'http://example.org/'
 title = 'SMU Smart City Society'
 theme = 'SmartCity'
 
-[languages]
-  [languages.en]
-    contentDir = "content/en" #English
-    weight = 1
-    languageName = "English"
-    [languages.en.params]
-      introTitle = "SMU Smart City Society"
-      introSubtitle = "Hi, I am smart"
-      introPhoto = "/scnexco.jpg"
-      logo = "/scnlogo.png"
-
-
-    [[languages.en.menu.main]]
-        name = "About"
-        url = "page/about/"
-        weight = 1
-
-    [[languages.en.menu.main]]
-        name = "Tags"
-        url = "tags"
-        weight = 2
-
-    [[languages.en.menu.main]]
-        name = "Top Post"
-        url = "/en/news/emoji-support/"
-        weight = 3
-
-    [[languages.en.menu.main]]
-        name = "Exco"
-        url = "exco"
-        weight = 4
-
-    [[languages.en.menu.main]]
-        name = "News"
-        url = "news"
-        weight = 5
-
-
-
-  
 
 [params]
-  # Enable the darkmode toggle in header
+  introTitle = "SMU Smart City Society"
+  introSubtitle = "Hi, I am smart"
+  introPhoto = "/scnexco.jpg"
+  logo = "/scnlogo.png"
+
+    # Enable the darkmode toggle in header
   darkModeToggle = true
   
   # Enable search in header
@@ -62,6 +27,39 @@ theme = 'SmartCity'
   # The page bundle that is shown on the front page
   frontBundle = "news"
 
+
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 1
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 2
+
+[[menu.main]]
+    name = "Top Post"
+    url = "/news/emoji-support/"
+    weight = 3
+
+[[menu.main]]
+    name = "Exco"
+    url = "customHTML/index.html"
+    weight = 4
+
+[[menu.main]]
+    name = "News"
+    url = "news"
+    weight = 5
+
+
+
+
+
+
+
+
 [params.homepage.social]
   # Global params xommon for both languages
   title = "Socials"
@@ -72,9 +70,7 @@ theme = 'SmartCity'
 
 
 
-[[menu.main]]
-  name = "About"
-  url = "/about"
+
 
 [build]
   writeStats = true
