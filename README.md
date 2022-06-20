@@ -28,7 +28,6 @@ single.html - each individual page format
 ## Exco
 Placed in the exco.toml file
 
-Credits: https://hugothemesfree.com/blist-theme-for-hugo/
 
 
 

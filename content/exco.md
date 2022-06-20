@@ -1,8 +1,8 @@
 ---
-title: "The Team" # in any language you want
-layout: "team" # is necessary
+title: "Exco" # in any language you want
+layout: "exco" # is necessary
 # url: "/archive"
 # description: "Description for Search"
-summary: "team"
+summary: "exco"
 ---
 
