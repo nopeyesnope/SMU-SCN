@@ -25,11 +25,11 @@ Design changes to be made in the config.toml file
 
 ## Templating
 
-```bash list.html ``` - home page
-```bash single.html ``` - each individual page format
+```list.html``` - home page
+```single.html``` - each individual page format
 
 ## Accessing Photos
-All images are stored in the >static/photos folder at the app root level. At this level whenever you want to reference a specific image, simply put ```bash /"image type" ```
+All images are stored in the >static/photos folder at the app root level. At this level whenever you want to reference a specific image, simply put ```/"image type"```
 
 
 
