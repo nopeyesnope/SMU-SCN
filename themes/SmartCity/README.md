@@ -1,4 +1,4 @@
-# Blist theme for Hugo
+<!-- # Blist theme for Hugo
 
 ![Latest Release](https://img.shields.io/github/tag/apvarun/blist-hugo-theme.svg)
 ![Blist hugo theme](https://img.shields.io/github/license/apvarun/blist-hugo-theme)
@@ -160,4 +160,4 @@ Licensed under [MIT](LICENSE)
 
 Give a ⭐️ if you like this project!
 
-<a href="https://www.buymeacoffee.com/apvarun" target="_blank" rel="noopener"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="145" alt="Buy Me A Coffee"></a>
+<a href="https://www.buymeacoffee.com/apvarun" target="_blank" rel="noopener"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="145" alt="Buy Me A Coffee"></a> -->

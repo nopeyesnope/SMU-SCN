@@ -6,6 +6,7 @@ description:
 keywords: ["about-us", "about-hugo", "contact"]
 type: about
 ---
+![Scenario 1: Across columns](/photos/scnlogo.png)
 
 We are a student club under the Institute of Innovation and Entrepreneurship (IIE) which aims to value-add student experiences in the field of Smart-City Management and Technology through workshops which incorporate topical discussions on Smart City issues. Our members will also get to participate in workshops and hackathons, and apply technologies such as analytics and IoT to help solve urbanization problems.
 

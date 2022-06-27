@@ -29,9 +29,13 @@ Design changes to be made in the config.toml file
 ```single.html``` - each individual page format
 
 ## Accessing Photos
-All images are stored in the >static/photos folder at the app root level. At this level whenever you want to reference a specific image, simply put ```/"image type"```
+All images are stored in the ```static/photos``` folder at the app root level. At this level whenever you want to reference a specific image, simply put ```/"image type"```
 
+## News format
+All blog/news format shall be stored in the ```/i18n/en.yaml``` folder.
 
+## Personal edits to page
+Any edits that is outside of the theme will be added to the ```/layouts/_default``` folder (see exco.html for example).
 
 
 
