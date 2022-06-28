@@ -1,8 +1,8 @@
 # Content
 
 #removed date posted
-# - id: postedOnDate
-#   translation: "Posted on {{ . }}"
+- id: postedOnDate
+  translation: "Posted on {{ . }}"
 - id: lastModified
   translation: "(Last modified on {{ . }})"
 - id: translationsLabel

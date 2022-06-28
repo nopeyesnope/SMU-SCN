@@ -35,7 +35,7 @@ All images are stored in the ```static/photos``` folder at the app root level. A
 All blog/news format shall be stored in the ```/i18n/en.yaml``` folder.
 
 ## Personal edits to page
-Any edits that is outside of the theme will be added to the ```/layouts/_default``` folder (see exco.html for example).
+Any edits that is outside of the theme will be added to the ```/layouts/_default``` folder (see exco.html for example). Adding new page to the ```config.toml``` will also require you to add the page name inside the contents folder. 
 
 
 

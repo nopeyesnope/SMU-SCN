@@ -1,4 +1,4 @@
 ---
-author: Katheryn Fox
-title: news
+author: SMU SCN
+title: News
 ---

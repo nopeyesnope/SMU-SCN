@@ -2,6 +2,7 @@
 author: "Hugo Authors"
 title: "Emoji Support"
 description: "Guide to emoji usage in Hugo"
+date: 2021-07-15
 tags: ["emoji"]
 thumbnail: https://picsum.photos/id/1050/400/250
 ---

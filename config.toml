@@ -5,7 +5,7 @@ theme = 'SmartCity'
 
 [params]
   introTitle = "SMU Smart City Society"
-  introSubtitle = "Hi, I am smart"
+  introSubtitle = "Welcome to the official SMU SCS Website! Do keep a lookout in your school email for upcoming events and activities :) "
   introPhoto = "/photos/scnexco.jpg"
   logo = "/photos/scnlogo.png"
 
@@ -30,7 +30,7 @@ theme = 'SmartCity'
 
 [[menu.main]]
     name = "About"
-    url = "page/about/"
+    url = "/about"
     weight = 1
 
 [[menu.main]]
@@ -39,8 +39,8 @@ theme = 'SmartCity'
     weight = 2
 
 [[menu.main]]
-    name = "Top Post"
-    url = "/news/emoji-support/"
+    name = "Upcoming Events"
+    url = "/upcoming"
     weight = 3
 
 [[menu.main]]
@@ -52,8 +52,11 @@ theme = 'SmartCity'
     name = "News"
     url = "news"
     weight = 5
-
-
+  
+[[menu.main]]
+    name = "Projects"
+    url = "projects"
+    weight = 6
 
 
 

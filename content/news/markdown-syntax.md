@@ -2,6 +2,7 @@
 author: "Hugo Authors"
 title: "Markdown Syntax Guide"
 description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+date: 2021-07-15
 tags: ["markdown", "css", "html"]
 thumbnail: https://picsum.photos/id/1019/500/200
 ---
