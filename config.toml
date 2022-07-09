@@ -1,6 +1,9 @@
-baseURL = 'http://example.org/'
+baseURL = 'smusmartcitysociety.vercel.app'
 title = 'SMU Smart City Society'
 theme = 'SmartCity'
+
+
+
 
 
 [params]
