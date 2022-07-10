@@ -1,4 +1,4 @@
-baseURL = 'smusmartcitysociety.vercel.app'
+baseURL = 'https://nopeyesnope.github.io/smartcitysociety/'
 title = 'SMU Smart City Society'
 theme = 'SmartCity'
 
@@ -61,7 +61,7 @@ theme = 'SmartCity'
     url = "projects"
     weight = 6
 
-
+googleAnalytics = 'UA-PROPERTY_ID'
 
 
 
@@ -69,7 +69,7 @@ theme = 'SmartCity'
 [params.homepage.social]
   # Global params xommon for both languages
   title = "Socials"
-  description = "You can find us here"
+  description = "Follow us for everything smart city related and events in our socials. "
   instagram = "https://www.instagram.com/smu.smartcitysoc/?hl=en"
   linkedin = "https://www.linkedin.com/company/smu-smartcity-society/?originalSubdomain=sg"
 
