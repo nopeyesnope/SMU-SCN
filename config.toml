@@ -1,4 +1,4 @@
-baseURL = 'www.example.com'
+baseURL = 'http://smusmartcitysociety.github.io/'
 title = 'SMU Smart City Society'
 theme = 'SmartCity'
 
