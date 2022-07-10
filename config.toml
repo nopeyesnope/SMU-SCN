@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
 baseURL = 'https://nopeyesnope.github.io/smartcitysociety/'
-=======
-baseURL = 'www.example.com'
->>>>>>> Stashed changes
 title = 'SMU Smart City Society'
 theme = 'SmartCity'
 
