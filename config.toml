@@ -1,4 +1,4 @@
-baseURL = 'http://smusmartcitysociety.github.io/'
+baseURL = 'https://strong-duckanoo-6a0a35.netlify.app/'
 title = 'SMU Smart City Society'
 theme = 'SmartCity'
 
