@@ -9,7 +9,7 @@ theme = 'SmartCity'
 [params]
   introTitle = "SMU Smart City Society"
   introSubtitle = "Welcome to the official SMU SCS Website! Do keep a lookout in your school email for upcoming events and activities :) "
-  introPhoto = "/photos/scnexco.jpg"
+  introPhoto = "/photos/coverpagescn.webp"
   logo = "/photos/scnlogo.png"
 
     # Enable the darkmode toggle in header
