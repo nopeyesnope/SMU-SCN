@@ -2,6 +2,7 @@
 author: "Gideon Ler, Khant Min Naing, Lin Xin Rose, Tan Xin Yi, Yeoshi Tan"
 title: "Geospatial Analysis of Foreign Workers Dormitories in Singapore"
 description: "By: Bradley Yeo Kian, Chua Yi Long Richie, Jin Ningxian, Khoo Chloe, Yeo Wei Ni"
+date: 2021-06-03
 tags: ["projects"]
 thumbnail: /projectimg/niftie1.png
 ---

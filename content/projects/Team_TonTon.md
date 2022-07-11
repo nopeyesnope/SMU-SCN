@@ -2,6 +2,7 @@
 author: "Gideon Ler, Khant Min Naing, Lin Xin Rose, Tan Xin Yi, Yeoshi Tan"
 title: "Vertical Farming to solve Food Security problems in Singapore"
 description: "By: Ong Zheng Jie, Teh Shureen, Yu Yiling"
+date: 2021-06-03
 tags: ["projects"]
 thumbnail: /projectimg/tonton1.png
 ---

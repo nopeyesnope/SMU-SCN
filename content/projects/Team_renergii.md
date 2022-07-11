@@ -2,6 +2,7 @@
 author: "Gideon Ler, Khant Min Naing, Lin Xin Rose, Tan Xin Yi, Yeoshi Tan"
 title: "Analysis of the Built Environment"
 description: "Done by: Gideon Ler, Khant Min Naing, Lin Xin Rose, Tan Xin Yi, Yeoshi Tan"
+date: 2021-06-03
 tags: ["projects"]
 thumbnail: /projectimg/renergii1.png
 ---

@@ -2,6 +2,7 @@
 author: "Gideon Ler, Khant Min Naing, Lin Xin Rose, Tan Xin Yi, Yeoshi Tan"
 title: "Real time Geospatial Analysis of harmful gas emissions"
 description: "By: Biondi Lee, Joshua Jed Ghinn, Liam Wells Ayathan, Loh Kok Wee, Sherlin Choo"
+date: 2021-06-03
 tags: ["projects"]
 thumbnail: /projectimg/traffic1.png
 ---

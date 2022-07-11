@@ -2,6 +2,7 @@
 author: "Gideon Ler, Khant Min Naing, Lin Xin Rose, Tan Xin Yi, Yeoshi Tan"
 title: "Save Water Wally"
 description: "By: James Tee, Lee Ruei Lynn, Renee Lee Ying. Tanya Elizabeth Khoo"
+date: 2021-06-03
 tags: ["projects"]
 thumbnail: /projectimg/wally1.png
 ---
